@@ -1,7 +1,7 @@
 # Express session , validator y cookies
 ## Desafio BackEnd y FronTend del curso FullStack de Digital House
 
-<a href="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/Objetivo/M05C08%20-%20Ejercitaci%C3%B3n_SESSION%26COOKIES%20-.pdf">IR AL PDF<a>
+<a href="https://github.com/ROBERT-Gimenez/Session_and_Cookies/blob/master/Objetivo/M05C08%20-%20Ejercitaci%C3%B3n_SESSION%26COOKIES%20-.pdf">IR AL PDF<a>
 
 
 ## Preview del desafio finalizado
